@@ -77,7 +77,7 @@ class Employee {
         this.id = id;
         this.firstName = firstName;
         this.lastName = lastName;
-        this.positionId = positionId; 
+        this.poisitonId = positionId; 
     }
 }
 
